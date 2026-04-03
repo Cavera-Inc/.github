@@ -35,6 +35,7 @@ MODCO Media delivers traditional, digital, experiential, and customized media �
 - Quantitative & Qualitative Market Research
 - Competitive Landscape Analysis
 - Consumer Profiles & Media Consumption
+- Advanced Measurement Strategy
 
 **Media Planning & Buying**
 - Media Mix & Investment Analysis
@@ -43,16 +44,19 @@ MODCO Media delivers traditional, digital, experiential, and customized media �
 - Asset Tagging & Trafficking
 - Media Vendor Management
 
-**Technology & Analytics**
-- Measurement Plan Development
-- Online Media Analytics Dashboards
-- CRM Data Segmentation & 1st Party Data Integration
-- AI-informed insights and reporting
+**Analytics & Data**
+- Measurement Plans
+- First-party & Data Lakehouse Development
+- GA4 & GTM
+- Data Hub & Agentic AI
+- Corporate Intelligence Dashboards
 
-**Creative**
-- Ideation through to production
-- Brand development
-- Full spectrum of creative services
+**UX & Engineering**
+- Website Design & Development
+- Application Development (Laravel & cross-platform)
+- Custom Integrations (Shopify, etc.)
+- Conversion Rate Optimization & AB Testing
+- Personalization & UX
 
 **Channels we cover:** Display · Digital Video · Digital Audio · Podcasts · Paid Social · Paid Search · Organic Search · AI Search · Programmatic · Network TV · Cable TV · Local Spot TV · Radio · Outdoor · Transit & Place Based · Events & Experiential · Custom Content · Endemic & Trade Publishers · Newsletters · Magazine · Cinema · ABM
 
