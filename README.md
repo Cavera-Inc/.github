@@ -1,75 +1,101 @@
-# Cavera Inc
+# MODCO Media
 
-> **Recommended content for this file:** This `README.md` lives in the special `.github` repository and appears on [Cavera Inc's public GitHub profile](https://github.com/Cavera-Inc). Use it to tell the world who you are and what you do. The sections below are a recommended starting point — fill each one in with real details as the organisation grows.
-
----
-
-## 🏢 About Us
-
-*Who is Cavera Inc?* Provide a short (2–4 sentence) description of the agency:
-- What industry or domain you operate in
-- The core problem you solve for clients
-- The value you uniquely deliver
-
-**Example:** "Cavera Inc is a full-service digital agency specialising in cloud-native software, data engineering, and UX design. We help businesses modernise their technology stacks and ship products that users love."
+> Long-time media experts who partner with challenger brands to collaboratively build innovative media solutions for long-term growth.
 
 ---
 
-## 🎯 Mission & Values
+## About Us
 
-Outline the agency's mission statement and the values that guide the team's work. Consider including:
-- Mission statement (one sentence)
-- 3–5 core values (e.g. transparency, quality, collaboration)
+MODCO Media is a full-service growth agency established in 1991. We partner with challenger brands across every category to build choreographed media strategies that drive real business results — not just tactical wins. In a marketplace where attention is fragmented, we know that winning requires a unified approach across digital experience, data analytics, and cultural resonance.
 
----
-
-## 🛠️ What We Do
-
-List the primary services or capabilities the agency offers. Some common categories:
-
-- **Software Development** – custom web, mobile, or desktop applications
-- **Cloud & DevOps** – infrastructure design, CI/CD, and platform engineering
-- **Data & Analytics** – data pipelines, dashboards, and machine-learning solutions
-- **UX / Product Design** – research, prototyping, and design systems
-- **Consulting & Strategy** – technical due diligence, architecture reviews, and roadmapping
-
-Replace or extend this list to match Cavera Inc's actual service offering.
+We're **My Own Damn Company** — and we embody that owner-operator mindset with every project, every partner, every time.
 
 ---
 
-## 🚀 Key Projects & Products
+## Mission & Values
 
-Highlight notable open-source projects, internal tools, or public-facing products that live in this GitHub organisation. For each entry consider including:
+**Mission:** To help our clients sell well — efficiently, responsibly, and for the long term.
 
-- **Name** – link to the repository
-- **Description** – one sentence on what it does
-- **Status** – e.g. *active development*, *stable*, *archived*
+**What we believe:**
 
----
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Please read our organisation-wide guidelines before opening an issue or pull request:
-
-- [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) – expected behavior in all Cavera Inc spaces
-- [`CONTRIBUTING.md`](CONTRIBUTING.md) – how to report bugs, suggest features, and submit PRs
-- [`SECURITY.md`](SECURITY.md) – how to responsibly disclose security vulnerabilities
-
-> **Note:** Default community health files placed in this repository automatically apply to every repository in the organisation that does not have its own copy.
+- **Independent by Design** — Big enough for full staffing, competitive rates, and real strategy. Small enough to pick up on a weekend.
+- **Nothing Hidden, Ever** — Clear fees, clear ownership, clear reporting. You always know who's working your business and what you're paying for.
+- **People Power the Work** — AI makes us more capable, not leaner. We use it to serve more clients better, not to replace the people who do the thinking.
+- **The Proof is There** — Seven clients taken to billion-dollar valuations, plus IPOs, acquisitions, and rollups across nearly every vertical.
+- **One Team, One Goal** — We operate as your in-house agency, fully aligned to your growth. Same mind, same mission, your success.
 
 ---
 
-## 📬 Get in Touch
+## What We Do
 
-Tell visitors how to reach the agency:
+MODCO Media delivers traditional, digital, experiential, and customized media — strategized, planned, bought, and optimized in-house.
 
-- 🌐 Website: `https://www.cavera.io` *(update with actual URL)*
-- 📧 Email: `hello@cavera.io` *(update with actual address)*
-- 💼 LinkedIn: *(add link)*
-- 🐦 X / Twitter: *(add handle)*
+**Strategy & Research**
+- Media & Communications Strategy
+- Quantitative & Qualitative Market Research
+- Competitive Landscape Analysis
+- Consumer Profiles & Media Consumption
+
+**Media Planning & Buying**
+- Media Mix & Investment Analysis
+- Targeting Segmentation
+- Tactical Plan Development for all channels
+- Asset Tagging & Trafficking
+- Media Vendor Management
+
+**Technology & Analytics**
+- Measurement Plan Development
+- Online Media Analytics Dashboards
+- CRM Data Segmentation & 1st Party Data Integration
+- AI-informed insights and reporting
+
+**Creative**
+- Ideation through to production
+- Brand development
+- Full spectrum of creative services
+
+**Channels we cover:** Display · Digital Video · Digital Audio · Podcasts · Paid Social · Paid Search · Organic Search · AI Search · Programmatic · Network TV · Cable TV · Local Spot TV · Radio · Outdoor · Transit & Place Based · Events & Experiential · Custom Content · Endemic & Trade Publishers · Newsletters · Magazine · Cinema · ABM
 
 ---
 
-## 📄 License
+## Our Process
 
-Unless otherwise stated, code published in the Cavera-Inc GitHub organisation is released under the [MIT License](LICENSE).
+We've helped grow 7 billion-dollar brands because we know how to actually deliver results.
+
+| Phase | Focus |
+|---|---|
+| **1 — Discovery & Insight-Mining** | Start with you — understanding your business, audience, and market |
+| **2 — Strategic Planning & Goal Setting** | Build the media strategy and define measurable goals |
+| **3 — Tactical Activation** | Plan, buy, and traffic across all relevant channels |
+| **4 — Deployment & Launch** | Execute with precision |
+| **5 — Measure, Iterate, Measure, Iterate** | Optimize relentlessly against what the data tells us |
+
+All while integrating AI efficiencies and research tools across our full spectrum of services.
+
+---
+
+## MODCO By The Numbers
+
+| | |
+|---|---|
+| **Established** | 1991 |
+| **Team** | 45+ remote-first employees |
+| **Offices** | New York City & Ontario |
+| **Annual Spend Managed** | $100M+ |
+| **Decade-long Client Partnerships** | 7 |
+| **Reach** | Global media experience |
+
+MODCO Media is part of **MODCO Group**, alongside Invisible Man and Cavera Inc.
+
+---
+
+## Get in Touch
+
+- 🌐 Website: [modcomedia.com](https://www.modcomedia.com)
+- 📧 Email: `hello@modcomedia.com`
+
+---
+
+## License
+
+Unless otherwise stated, code published in this GitHub organisation is released under the [MIT License](LICENSE).
